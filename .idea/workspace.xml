@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.22.0" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/04" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/04" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/09" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/Recitation10" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/Team 6" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/Team6" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/Team6 copy" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/Team6-public" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/Team6/hw5b-clean" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/Team6/hw5b-clean-final" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/Team6/plugins/libs/XChart-develop" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/finale/xzhou2-master/homework" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/finale/xzhou2-master/homework/1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/finale/xzhou2-master/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/finale/xzhou2-master/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/finale/xzhou2-master/homework/4" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/finale/xzhou2-master/homework/6" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/finale/xzhou2-master/recitation/04" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/s19/xzhou2/recitation/01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/s19/xzhou2/recitation/02" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/homework/1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/homework/4" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/homework/6" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/recitation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/recitation/04" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/recitation/07" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/recitation/08" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/recitation/09" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/recitation/12" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/recitation/13" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/17214/xzhou2/recitation/14" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/TA-scripts/brenth/homework/1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/CMU/TA-scripts/luel" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/09" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/13" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Carcassonne-a41fe646865fb57c4985c123ede3eaf0af0a6404" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Data_Visualization_Framework-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Principle-of-Software-Construction-master/homework/1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Principle-of-Software-Construction-master/homework/6" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Social-Network-Analyzer-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/jongwonl-master/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/mzhu3-master/homework/4" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/huanxind/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/hwu4/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jbrezina" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jbrezina/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jbroitma" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jbroitma/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jchacon/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jcifuent" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jcifuent/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jialians" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jialians/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jiulingz" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jiulingz/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/jjhou/homework/2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/luxingj/homework/1" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/makiyama" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/margretw" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/mbuchman" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/mgq" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/miah" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/mingyuh" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/mpotluri" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/nanjianl" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/pgerma/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/plocula/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/qmei/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/seonwoo1/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/seungmih/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/sqp/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/sroa/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/sunghoch/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/tianyanf/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/weixinq/homework/3" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/wguo2/homework/4" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yannanc" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yanqingw" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yichenl2" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yifeil2/homework/4" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yilinl2/homework/4" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yingqiaz/homework/4" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yitongl" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yufeic2/homework/4" value="PREVIEW" />
+        <entry key="$USER_HOME$/TA-scripts/yumengw/homework/4" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/02" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/02/to-distribute/02" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/04" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/04/staff/solutions/04" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/04/staff/solutions/04_old" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/04/to-distribute/04" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/06/staff/03-logging-system-sols" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/06/to-distribute/06" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/07/staff/staff_solution" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/07/to-distribute/07" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/08/staff/08" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/08/to-distribute/08" value="PREVIEW" />
+        <entry key="$USER_HOME$/staff-repo/2019-1spring/recitation/09/staff/09" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="53" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
